@@ -16,12 +16,8 @@ class ObjectDetection:
         # Enable GPU CUDA
         net.setPreferableBackend(cv2.dnn.DNN_BACKEND_CUDA)
         net.setPreferableTarget(cv2.dnn.DNN_TARGET_CUDA)
+
         self.model = cv2.dnn_DetectionModel(net)
-
-        self.classes = []
-        self.load_class_names()
-        self.colors = np.random.uniform(0, 255, size=(80, 3))
-
         self.model.setInputParams(size=(self.image_size, self.image_size), scale=1/255)
 
     def detect(self, frame):
