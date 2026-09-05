@@ -180,7 +180,7 @@ The processed frame is then displayed using OpenCV.
 ## 📁 Project Structure
 
 ```text
-Car-Tracking/
+Vehicle-Detection-YOLOv4/
 │
 ├── Object_Detection.py
 │   └── YOLOv4 model loading and object detection
@@ -235,13 +235,13 @@ Before running the project, make sure you have:
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/MoienSohaniDarban/Car-Tracking.git
+git clone https://github.com/MoienSohaniDarban/Vehicle-Detection-YOLOv4.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd Car-Tracking
+cd Vehicle-Detection-YOLOv4
 ```
 
 ---
