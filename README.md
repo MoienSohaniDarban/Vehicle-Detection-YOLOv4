@@ -457,7 +457,7 @@ git push origin feature/your-feature
 
 ### Moien Sohani Darban
 
-[![GitHub](https://img.shields.io/badge/GitHub-MoienSohaniDarban-181717?style=for-the-badge&logo=github)](https://github.com/MoienSohaniDarban)
+[![GitHub](https://img.shields.io/badge/GitHub-MoienSohaniDarban-181717?style=for-the-badge&logo=github)](https://github.com/moien-sohani-darban)
 
 </div>
 
@@ -467,6 +467,6 @@ git push origin feature/your-feature
 
 ### ⭐ If you find this project useful, consider giving it a star.
 
-**Built with Python, OpenCV and YOLOv4**
+**Built with Python, OpenCV, and YOLOv4**
 
 </div>
