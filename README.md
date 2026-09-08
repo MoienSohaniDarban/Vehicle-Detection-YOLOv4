@@ -455,9 +455,9 @@ git push origin feature/your-feature
 
 <div align="center">
 
-### Moien Sohani Darban
+### Moien Sohani
 
-[![GitHub](https://img.shields.io/badge/GitHub-MoienSohaniDarban-181717?style=for-the-badge&logo=github)](https://github.com/moien-sohani-darban)
+[![GitHub](https://img.shields.io/badge/GitHub-MoienSohani-181717?style=for-the-badge&logo=github)](https://github.com/moien-sohani-darban)
 
 </div>
 
